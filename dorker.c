@@ -811,7 +811,7 @@ static void help (void) {
   -t  -  Number of threads (Default: 1).\n\
   -v  -  Top-level filter.\n\
   -p  -  Path to search (Default: 200 OK HTTP error).\n\
-      -> Output path file: DORK_FILE_NAME-paths.txt\n\
+      '-> Output path file: DORK_FILE_NAME-paths.txt\n\
   -d  -  Data to search.\n\
   -c  -  Search engine (Default: all).\n\
       |-> 1: Bing\n\
